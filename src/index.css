@@ -3,3 +3,12 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.top-bar-new .container {
+  margin-top: 0;
+  color: #fff;
+}
+.top-bar-new {
+  background-color: #1e272f;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
