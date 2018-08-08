@@ -76,7 +76,7 @@ componentDidMount(){
 
   render() {
     const {recipes,currentIndex,newestRecipe}=this.state;
-    console.log(newestRecipe);
+//     console.log(newestRecipe);
     return (
       <div className="App container margin1 ">
         <h1>Cool Recipe</h1>
